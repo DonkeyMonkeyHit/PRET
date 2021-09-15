@@ -1,0 +1,3 @@
+print ./garry.docx
+display PR1NT3R FUCK3D
+quit
